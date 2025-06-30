@@ -10,7 +10,7 @@ How to Activate Hulu on a New Device Using an Activation Code?
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_4.png
    :width: 350px
    :align: center
    :height: 100px
