@@ -1,5 +1,5 @@
 ##################
-How to Activate Hulu on a New Device Using an Activation Code?
+Step-by-Step: Activate Hulu with a Code on New Devices
 ##################
 
 .. meta::
